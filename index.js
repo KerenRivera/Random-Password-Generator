@@ -24,5 +24,8 @@ function createPassword() {
         
     }
     inputElement.value = password;
+}
 
+function copypassword() {
+    inputElement.select();
 }
