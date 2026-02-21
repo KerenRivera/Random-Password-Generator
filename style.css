@@ -45,8 +45,9 @@ body {
     opacity: .3;
 }
 
-.fa-clone:hover {
+.fa-copy:hover {
     opacity: .7;
+    cursor: pointer;
 }
 
 .btn{
